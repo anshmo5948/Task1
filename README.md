@@ -65,7 +65,7 @@ To make column names consistent and analysis-friendly:
 - Used **Find & Replace** to convert column names to lowercase and underscore format.
 - Example updates:
   - `Year_Birth` ➝ `year_birth`
-  - `Marital_Status` ➝ `marital_status`
+ 
 
 This standardization improves readability and compatibility with programming workflows.
 
